@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+
+# 測試區
+
 # Fox2
 
 Scene Kit sample code that was demonstrated at WWDC 2017.
@@ -29,6 +31,3 @@ iOS 11 or later, tvOS 11 or later, macOS 10.13 or later
 Fox 2 must be run on a physical device.
 Fox 2 is not supported on the iOS Simulator or tvOS Simulator.
 
-=======
-# Scene-ARkit-demo
->>>>>>> cc18c2ca064a4ecf00c8ee67a55b4dc08cb3d285
